@@ -1,3 +1,6 @@
+>Warning:
+this project was forked from [exceljs](https://github.com/exceljs/exceljs), base on the last commit on 2024-01-12 [5bed18b45e824f409b08456b59b87430ded023ab](https://github.com/exceljs/exceljs/commit/5bed18b45e824f409b08456b59b87430ded023ab), Since the latest version of exceljs is v4.4.0
+
 # ExcelJS
 
 [![Build Status](https://github.com/exceljs/exceljs/actions/workflows/tests.yml/badge.svg?branch=master&event=push)](https://github.com/exceljs/exceljs/actions/workflows/tests.yml)

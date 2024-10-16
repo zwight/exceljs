@@ -1778,6 +1778,8 @@ export class Workbook {
 	addImage(img: Image): number;
 
 	getImage(id: number): Image;
+
+	getImages(): Image[];
 }
 
 export interface TableStyleProperties {

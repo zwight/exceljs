@@ -1,3 +1,6 @@
+>注意:
+本项目是fork [exceljs](https://github.com/exceljs/exceljs), 基于2024年1月12日的最后一次提交[5bed18b45e824f409b08456b59b87430ded023ab](https://github.com/exceljs/exceljs/commit/5bed18b45e824f409b08456b59b87430ded023ab), 从exceljs最后一个版本v4.4.0开始
+
 # ExcelJS
 
 [![Build status](https://github.com/exceljs/exceljs/workflows/ExcelJS/badge.svg)](https://github.com/exceljs/exceljs/actions?query=workflow%3AExcelJS)
